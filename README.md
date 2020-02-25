@@ -1,2 +1,2 @@
 # Miami landing page
-  [DEMO LINK](https://<your_account>.github.io/miami_layout/)
+  [DEMO LINK](https://Valeriy-Sorochynskyi.github.io/miami_layout/)
