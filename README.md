@@ -1,2 +1,2 @@
 # Miami landing page
-  [DEMO LINK](https://<your_account>.github.io/layout_miami/)
+  [DEMO LINK](https://<your_account>.github.io/miami_layout/)
